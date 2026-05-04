@@ -88,11 +88,51 @@ Make sure you have Node.js installed.
 └── vite.config.js        # Vite bundler configuration
 ```
 
-## 👨‍💻 Author
+## 👨‍💻 Author & Profile
 
-**Sakti Swarup Mishra**
-- Full-Stack Developer & Creative Engineer
-- [Email](mailto:saktiswarupmishra5@gmail.com)
+**Sakti Swarup Mishra**  
+*Full-Stack Developer & Creative Engineer*
+
+- 📧 **Email:** [saktiswarupmishra5@gmail.com](mailto:saktiswarupmishra5@gmail.com)
+- 📍 **Location:** Bhubaneswar, Odisha
+- 🚀 **Availability:** Available for immediate joining | Willing to relocate and travel as required
+- 🗣️ **Languages:** Fluent in English, Hindi, and Odia
+
+### 💡 Interests & Highlights
+- 🛡️ Strong interest in **Cybersecurity** & 🎮 **Game Development**
+- 🏆 Active participant in hackathons and coding competitions
+
+---
+
+## 💼 Experience
+
+### **Full-Stack Developer Trainee** | *RiseSmart Solution Private Limited*
+📅 *December 2025 - March 2026 | Bhubaneswar, Odisha*
+- **End-to-End Development:** Delivered comprehensive software development services from concept to deployment, building scalable and secure digital products.
+- **Cross-Platform & Web:** Developed cross-platform mobile and responsive web applications using modern tech stacks.
+- **Optimization & Security:** Implemented secure coding standards and performance optimization practices.
+- **Cloud & Infrastructure:** Supported cloud integration, hosting, and backend infrastructure management.
+- **CI/CD & DevOps:** Streamlined development workflows by integrating automated build and deployment pipelines, accelerating release cycles and enhancing collaboration across engineering teams.
+- **API Integration:** Integrated third-party APIs and services to extend platform functionality and enable seamless interoperability with external systems.
+- **Quality Assurance:** Focused on quality assurance, testing, continuous improvement, and serving industrial, enterprise, and software ecosystem markets.
+
+### **Web Developer Internship** | *ITabet*
+📅 *March 2025 - July 2025 | Bhubaneswar, Odisha*
+- **Web Solutions:** Provided professional website development and regular maintenance services for a globally recognized digital marketing agency.
+- **Digital Growth:** Assisted in customizing web strategies to increase online presence, improve visibility, and generate quality leads.
+- **Platform Integration:** Supported initiatives involving Google My Business setups, targeted ad campaigns (Google/Meta), and social media integration to engage audiences across platforms.
+- **Client Success:** Contributed to web projects aimed at building long-term, trust-based partnerships with clients worldwide.
+
+---
+
+## 🎓 Education
+
+### **Master of Computer Application (MCA)**
+🏛️ *Gandhi Engineering College, Bhubaneswar, Odisha*
+📅 *Graduated: 2025 | CGPA: 8.00*
+- **Specializations:** Artificial Intelligence, Cyber Security, Full Stack Development, and Java Development.
+
+---
 
 ## 📄 License
 
