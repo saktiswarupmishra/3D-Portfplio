@@ -47,7 +47,7 @@ export default function Footer() {
         {/* Built with */}
         <div className="text-center mt-8">
           <p className="text-[10px] tracking-wider" style={{ color: 'var(--text-muted)', fontFamily: 'var(--font-mono)' }}>
-            Built with React Three Fiber • GSAP • Framer Motion • Tailwind CSS
+            Built the Sakti Swarup Mishra.....
           </p>
         </div>
 
