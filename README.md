@@ -2,7 +2,10 @@
 
 An immersive, interactive 3D developer portfolio built to showcase projects, skills, and experience. Designed with a focus on creative engineering, it leverages modern web technologies to deliver a high-performance, visually stunning experience.
 
-![Portfolio Preview](./public/favicon.svg) <!-- Replace with actual screenshot later -->
+<div align="center">
+  <img src="./public/loading_screen.png" alt="Portfolio Loading Screen" width="49%" />
+  <img src="./public/hero_section.png" alt="Portfolio Hero Section" width="49%" />
+</div>
 
 ## ✨ Key Features
 
