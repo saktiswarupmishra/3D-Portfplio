@@ -1,4 +1,4 @@
-# Sakti | 3D Developer Portfolio
+# Sakti Swarup Mishra| 3D Developer Portfolio
 
 An immersive, interactive 3D developer portfolio built to showcase projects, skills, and experience. Designed with a focus on creative engineering, it leverages modern web technologies to deliver a high-performance, visually stunning experience.
 
@@ -92,7 +92,7 @@ Make sure you have Node.js installed.
 
 **Sakti Swarup Mishra**
 - Full-Stack Developer & Creative Engineer
-- [Email](mailto:hello@sakti.dev)
+- [Email](mailto:saktiswarupmishra5@gmail.com)
 
 ## 📄 License
 
